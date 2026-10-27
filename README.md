@@ -1,36 +1,47 @@
 
 <div align="center">
 
-# Hey, I'm Emir! 👋
+<br/>
 
-### Software Engineer · Backend & AI Enthusiast · Startup Co-Founder
+### 👋 Hello World, I'm
 
-📍 Berlin, Germany 🇩🇪
+# Emir Yalçınkaya
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;Backend+Engineering+%7C+AI+%7C+Automation;Turning+ideas+into+real+products." alt="Typing animation" />
+**Software Engineer · Backend & AI · Startup Co-Founder**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://emiryalcinkaya.dev)
+🇩🇪 Berlin, Germany
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1100&color=009B77&center=true&vCenter=true&width=550&lines=Building+things+that+actually+work.;Turning+ideas+into+real+products.;Backend+Engineering+%26+AI.;Always+learning.+Always+building." alt="Typing SVG" />
+
+<br/><br/>
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-009B77?style=for-the-badge&logoColor=white)](https://emiryalcinkaya.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiryalcinkaya)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiryalcinkaya.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-22272E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiryalcinkaya.dev@gmail.com)
 
 </div>
 
+<br/>
+
 ---
 
-### 🧑‍💻 A Little About Me
+### `> about_me`
 
-I'm a Software Engineering student at the **University of Europe for Applied Sciences** in Berlin.
+I'm a **Software Engineering student** at the University of Europe for Applied Sciences in Berlin.
 
-I enjoy building reliable backend systems, exploring artificial intelligence, and turning ambitious ideas into working software.
+I build backend systems, explore artificial intelligence, and turn ideas into real-world software products.
 
 - 🚀 Co-Founder of **[Bracel](https://bracel.dev)**
-- 🧠 Interested in **AI, Machine Learning & Automation**
-- ⚙️ Focused on **Backend Engineering & Developer Tools**
-- 🌱 Always learning, building, and experimenting
+- 🧠 Exploring **AI, Machine Learning & Automation**
+- ⚙️ Passionate about **Backend Engineering & Developer Tools**
+- 🍎 Building native applications with **Swift**
+- 💡 Driven by curiosity and the desire to create useful technology
 
----
+<br/>
 
-### 🛠️ My Tech Stack
+### `> tech_stack`
 
 **💻 Languages**
 
@@ -38,7 +49,7 @@ I enjoy building reliable backend systems, exploring artificial intelligence, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **⚡ Backend & Databases**
 
@@ -49,7 +60,7 @@ I enjoy building reliable backend systems, exploring artificial intelligence, an
 
 **🤖 AI & Machine Learning**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
@@ -59,65 +70,151 @@ I enjoy building reliable backend systems, exploring artificial intelligence, an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+<br/>
+
 ---
 
-### 🚀 What I'm Building
+### `> featured_project`
 
 <div align="center">
 
-#### 🛡️ [Bracel — Execution-Based Code Verification](https://bracel.dev)
+## 🟠 Bracel
+
+**Execution-Based Code Verification**
 
 *Business rules deserve more than code review.*
 
 </div>
 
-Bracel verifies whether code changes actually satisfy defined business rules by executing real scenarios and producing evidence-backed results.
+<table>
+<tr>
+<td width="100%">
 
-- 🔍 **Verify** — Run business rules against real application behavior
-- 🛡️ **Validate** — Get evidence-backed PASS / FAIL / UNKNOWN results
-- 🔗 **Integrate** — Connect verification workflows with GitHub and CI/CD
+### 🛡️ [Bracel](https://bracel.dev)
 
-**Tech:** `TypeScript` · `Node.js` · `Docker` · `GitHub API`
+Bracel verifies whether code changes actually satisfy defined business rules by executing real application scenarios and producing evidence-backed results.
 
-<div align="center">
+**🔍 Verify** — Test business rules against real application behavior.
 
-[![Explore Bracel](https://img.shields.io/badge/Explore_Bracel-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://bracel.dev)
+**🛡️ Validate** — Get evidence-backed PASS / FAIL / UNKNOWN results.
 
-</div>
-
----
-
-### 🧪 Selected Projects
-
-| Project | Description |
-|:---|:---|
-| 🎬 **[Lensivo: Screen Recorder](https://apps.apple.com/tr/app/lensivo-screen-recorder/id6757967733?mt=12)** | Native macOS screen recording app built with Swift, available on the App Store |
-| 📦 **[StockFlow](https://github.com/emiryalcinkaya/stock-flow)** | Inventory management with REST APIs, authentication, and PostgreSQL |
-| 🧠 **[Predictive Maintenance Agent](https://github.com/emiryalcinkaya/predictive-maintenance-agent)** | Machine learning meets local LLMs for maintenance recommendations |
-| 📚 **[Mesopotamia RAG](https://github.com/emiryalcinkaya/ancient-empire-rag-llm)** | Document Q&A using FAISS, embeddings, and Llama 3 |
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryalcinkaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" />
+**🔗 Integrate** — Connect verification workflows with GitHub pull requests and CI/CD.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emiryalcinkaya&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+![TypeScript](https://img.shields.io/badge/TypeScript-22272E?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-22272E?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Docker](https://img.shields.io/badge/Docker-22272E?style=flat-square&logo=docker&logoColor=2496ED)
 
-</div>
+<br/>
+
+[![Visit Bracel](https://img.shields.io/badge/🌐_Visit_Bracel-FF702A?style=for-the-badge&logoColor=white)](https://bracel.dev)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `> selected_projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Lensivo
+
+**Native macOS Screen Recorder**
+
+A native macOS application built with Swift, available on the App Store.
+
+<br/>
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-22272E?style=flat-square&logo=apple&logoColor=white)
+
+<br/>
+
+[![App Store](https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/lensivo-screen-recorder/id6757967733?mt=12)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 StockFlow
+
+**Inventory Management System**
+
+Backend-driven inventory management with REST APIs, authentication, and PostgreSQL.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-22272E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiryalcinkaya/stock-flow)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Predictive Maintenance
+
+**Machine Learning & LLM Integration**
+
+Predictive maintenance using ML classifiers and local LLM-generated recommendations.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-22272E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiryalcinkaya/predictive-maintenance-agent)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Mesopotamia RAG
+
+**AI Document Assistant**
+
+Document question answering using embeddings, FAISS retrieval, and local Llama 3.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-22272E?style=flat-square&logo=ollama&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-22272E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiryalcinkaya/ancient-empire-rag-llm)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Meaningful.
+### Let's build something meaningful. 🌱
 
 *Always curious. Always building.*
 
-[🌐 Website](https://emiryalcinkaya.dev) · [💼 LinkedIn](https://www.linkedin.com/in/emiryalcinkaya) · [🚀 Bracel](https://bracel.dev)
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_Website-009B77?style=for-the-badge&logoColor=white)](https://emiryalcinkaya.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiryalcinkaya)
+[![Bracel](https://img.shields.io/badge/🌐_Bracel-FF702A?style=for-the-badge&logoColor=white)](https://bracel.dev)
+
+<br/>
+
+<sub>Designed with curiosity, built with purpose.</sub>
 
 </div>
