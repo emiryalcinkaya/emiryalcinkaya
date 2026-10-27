@@ -35,15 +35,11 @@
 
 ### 🧑‍💻 A Little About Me
 
-I'm a **Software Engineering student** at the University of Europe for Applied Sciences in Berlin.
+I'm a **Software Engineering student** based in Berlin, passionate about building useful software and turning ideas into real products.
 
-I enjoy building reliable backend systems, exploring artificial intelligence, and turning ambitious ideas into working software.
+My interests lie in **Backend Engineering, Artificial Intelligence, and Software Development**.
 
-- 🚀 Co-Founder of **[Bracel](https://bracel.dev)**
-- 🧠 Interested in **AI, Machine Learning & Automation**
-- ⚙️ Focused on **Backend Engineering & Developer Tools**
-- 🍎 Building native macOS applications with **Swift**
-- 🌱 Always learning, building, and experimenting
+🚀 Co-Founder of [Bracel](https://bracel.dev) · 🍎 Creator of [Lensivo](https://apps.apple.com/tr/app/lensivo-screen-recorder/id6757967733?mt=12)
 
 <br/>
 
@@ -75,51 +71,6 @@ I enjoy building reliable backend systems, exploring artificial intelligence, an
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-<br/>
-
----
-
-### 🚀 What I'm Building
-
-<div align="center">
-
-#### 🛡️ [Bracel — Execution-Based Code Verification](https://bracel.dev)
-
-*Business rules deserve more than code review.*
-
-</div>
-
-Bracel verifies whether code changes actually satisfy defined business rules by executing real scenarios and producing evidence-backed results.
-
-- 🔍 **Verify** — Run business rules against real application behavior
-- 🛡️ **Validate** — Get evidence-backed PASS / FAIL / UNKNOWN results
-- 🔗 **Integrate** — Connect verification workflows with GitHub pull requests and CI/CD
-
-**Tech:** `TypeScript` · `Node.js` · `Docker` · `GitHub API`
-
-<div align="center">
-
-<br/>
-
-<a href="https://bracel.dev">
-  <img src="https://img.shields.io/badge/VISIT_BRACEL-FF702A?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Visit Bracel Website" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-### 🧪 Selected Projects
-
-| Project | Description |
-|:---|:---|
-| 🎬 **[Lensivo: Screen Recorder](https://apps.apple.com/tr/app/lensivo-screen-recorder/id6757967733?mt=12)** | Native macOS screen recording app built with Swift, available on the App Store |
-| 📦 **[StockFlow](https://github.com/emiryalcinkaya/stock-flow)** | Inventory management with REST APIs, authentication, and PostgreSQL |
-| 🧠 **[Predictive Maintenance Agent](https://github.com/emiryalcinkaya/predictive-maintenance-agent)** | Machine learning meets local LLMs for maintenance recommendations |
-| 📚 **[Mesopotamia RAG](https://github.com/emiryalcinkaya/ancient-empire-rag-llm)** | Document Q&A using FAISS, embeddings, and Llama 3 |
 
 <br/>
 
