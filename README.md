@@ -5,7 +5,7 @@
 
 # Hey, I'm Emir! 👋
 
-### Software Engineer · Backend & AI Enthusiast · Startup Co-Founder
+### Software Engineering Student · Backend & AI Developer · Startup Co-Founder
 
 🇩🇪 Berlin, Germany
 
@@ -39,9 +39,9 @@ I'm a **Software Engineering student** based in Berlin, passionate about buildin
 
 My interests lie in **Backend Engineering, Artificial Intelligence, and Software Development**.
 
-**Co-Founder** of [Bracel](https://bracel.dev)
+💼 **Co-Founder & CTO** of [Bracel](https://bracel.dev)
 
-**Creator** of [Lensivo](https://apps.apple.com/tr/app/lensivo-screen-recorder/id6757967733?mt=12)
+💻 **Creator** of [Lensivo](https://apps.apple.com/tr/app/lensivo-screen-recorder/id6757967733?mt=12)
 
 <br/>
 
@@ -94,8 +94,8 @@ My interests lie in **Backend Engineering, Artificial Intelligence, and Software
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://bracel.dev">
-  <img src="https://img.shields.io/badge/BRACEL-FF702A?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="Bracel" />
+<a href="mailto:emiryalcinkaya.dev@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email" />
 </a>
 
 <br/><br/>
